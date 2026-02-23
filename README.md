@@ -18,7 +18,7 @@ nothing yet
 - Create my own OS (CentOS already exist and I'm not happy about it ˘-˘)
 ## I also finished:
 nothing yet (˘･_･˘)
-## The languages I usually use are listed below:
+## The languages and teck I usually use are listed below:
 ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c)
 ### And a long time ago:
 ![Arduino](https://skillicons.dev/icons?i=arduino)
