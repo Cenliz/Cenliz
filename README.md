@@ -2,7 +2,7 @@
 I love programming so I usually do a lot of small projects but I'm a dev student now so I'll start to do some bigger projects!
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1233081003359342667?theme=dark&borderRadius=30px)](https://discord.com/users/1233081003359342667)
-## My cursus can be semmarised like this:
+## My cursus can be summarised like this:
 BAC MSPC -> BTS dev (current year)
 ## Here are my current big, medium and small projects:
 ### Big:
