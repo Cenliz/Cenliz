@@ -13,7 +13,7 @@ nothing yet
 
 - [goal oriented ai](https://github.com/Cenliz/goal_oriented_programming) (learning a new way to code ai (in a game, not a real one)) ![Static Badge](https://img.shields.io/badge/Build-gray)
 ## And my futures projects:
-- Create my own OS (CentOS already exist and I'm not happy about it)
+- Create my own OS (CentOS already exist and I'm not happy about it ˘-˘)
 ## I also finished:
 nothing yet (˘･_･˘)
 <!--
