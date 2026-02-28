@@ -11,7 +11,7 @@ nothing yet
 - [Triomino](https://github.com/Cenliz/Triomino) (as a video game) ![Static Badge](https://img.shields.io/badge/Build-gray)
 
 ### Small:
-- adofai bot (a program that plays any map in "a dance of fire and ice") ![Static Badge](https://img.shields.io/badge/Build-gray)
+- adofai bot (a program that plays any map in "a dance of fire and ice") [![Static Badge](https://img.shields.io/badge/Build-gray)](https://github.com/Cenliz/adofai_bot)
 
 - [goal oriented ai](https://github.com/Cenliz/goal_oriented_programming) (learning a new way to code ai (in a game, not a real one)) ![Static Badge](https://img.shields.io/badge/Build-gray)
 ## And my futures projects:
