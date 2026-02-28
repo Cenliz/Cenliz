@@ -8,12 +8,12 @@ BAC MSPC -> BTS dev (current year)
 ### Big:
 nothing yet
 ### Medium:
-- [Triomino](https://github.com/Cenliz/Triomino) (as a video game) ![Static Badge](https://img.shields.io/badge/Build-gray)
+- Triomino (as a video game) [![Static Badge](https://img.shields.io/badge/Build-gray)](https://github.com/Cenliz/Triomino)
 
 ### Small:
 - adofai bot (a program that plays any map in "a dance of fire and ice") [![Static Badge](https://img.shields.io/badge/Build-gray)](https://github.com/Cenliz/adofai_bot)
 
-- [goal oriented ai](https://github.com/Cenliz/goal_oriented_programming) (learning a new way to code ai (in a game, not a real one)) ![Static Badge](https://img.shields.io/badge/Build-gray)
+- goal oriented ai (learning a new way to code ai (in a game, not a real one)) [![Static Badge](https://img.shields.io/badge/Build-gray)](https://github.com/Cenliz/goal_oriented_programming)
 ## And my futures projects:
 - A croissantage USB key (open discord, write a croissantage message, open internet and go to https://croissantage.fr)
 - Create my own OS (CentOS already exist and I'm not happy about it ˘-˘)
