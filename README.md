@@ -18,7 +18,7 @@ nothing yet
 - A croissantage USB key (open discord, write a croissantage message, open internet and go to https://croissantage.fr)
 - Create my own OS (CentOS already exist and I'm not happy about it ˘-˘)
 ## I also finished:
-nothing yet (˘･_･˘)
+- Conway's Game of Life [![Static Badge](https://img.shields.io/badge/V1-green)](https://github.com/Cenliz/Game_of_life)
 ## The languages and tech I usually use are listed below:
 ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c)
 ### And a long time ago:
