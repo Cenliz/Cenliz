@@ -9,16 +9,16 @@ BAC MSPC -> Lisence game dev VR (current year)
 <!--
 - Triomino (as a video game) [![Static Badge](https://img.shields.io/badge/Build-gray)](https://github.com/Cenliz/Triomino)
 - adofai bot (a program that plays any map in "a dance of fire and ice") [![Static Badge](https://img.shields.io/badge/Build-gray)](https://github.com/Cenliz/adofai_bot)
--->
-
 - goal oriented ai (learning a new way to code ai (in a game, not a real one)) [![Static Badge](https://img.shields.io/badge/Build-gray)](https://github.com/Cenliz/goal_oriented_programming)
+-->
 ## And my futures projects:
 - A croissantage USB key (open discord, write a croissantage message, open internet and go to https://croissantage.fr)
 - Create my own OS (CentOS already exist and I'm not happy about it ˘-˘)
 ## I also finished:
+- AnonceBot [![Static Badge](https://img.shields.io/badge/V1-green)](https://github.com/Cenliz/AnnonceBot)
 - Conway's Game of Life [![Static Badge](https://img.shields.io/badge/V1-green)](https://github.com/Cenliz/Game_of_life)
 ## The languages and tech I usually use are listed below:
-![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c)
+![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![Cs](https://skillicons.dev/icons?i=cs) ![Unity](https://skillicons.dev/icons?i=unity)
 ### And a long time ago:
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 
